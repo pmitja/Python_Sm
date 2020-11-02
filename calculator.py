@@ -1,8 +1,15 @@
 print("@@@  Welcome to simple calculator!   @@@")
 print("This simple calculator, calculate two random numbers. With +, -, * or /")
 
-first_number = int(input("Please type first number: "))
-second_number = int(input("Please type second number: "))
+try:
+    first_number = int(input("Please type first number: "))
+except:
+    print("Input need to be a number")
+try:
+    second_number = int(input("Please type second number: "))
+except:
+    print("Input need to be a number")
+
 operation = input("Which operation would you like?: ")
 result = 0
 
@@ -20,4 +27,3 @@ elif operation == "/":
     print(f"Result of first number and second number with operation / is: {result:.2f}")
 else:
     print("Wrong operation, please try again!")
-
