@@ -1,0 +1,1 @@
+[{"name": "Mitja", "attempts": 3, "date": "11/07/2020", "wrong guesses": [4, 2]}, {"name": "Pak", "attempts": 5, "date": "11/07/2020", "wrong guesses": [2, 3, 4, 5]}, {"name": "Zmagovalec", "attempts": 2, "date": "11/07/2020", "wrong guesses": [3]}]
