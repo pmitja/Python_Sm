@@ -1,0 +1,1 @@
+{'first_name': 'James', 'surname': 'Lebron', 'height': '206cm', 'weight': '113 kg', 'avg_points': '27.1', 'avg_rebounds': '7.4', 'avg_assists': '7.4'}
